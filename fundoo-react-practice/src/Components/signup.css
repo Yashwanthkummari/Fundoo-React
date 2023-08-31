@@ -1,0 +1,104 @@
+
+.f {
+    color: red;
+}
+
+.u {
+    color: yellow;
+}
+
+.n {
+    color: aqua;
+}
+
+.d {
+    color: green;
+}
+
+.O {
+    color: chocolate;
+}
+
+.o {
+    color: violet;
+}
+.name {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.name1 {
+    margin-top: 10vh;
+    border: 1px solid rgba(0, 0, 0, 0.384);
+    border-radius: 20px;
+    /* box-shadow: 1px 1px 1px 1px; */
+    padding-left: 10vh;
+    padding-right: 10vh;       
+}
+.cs{
+    margin-left: 25px;
+}
+.es{
+    margin-left:12px;
+    margin-right:10px;
+}
+.T {
+    margin-left: 110px;
+}
+
+.us {
+    
+    margin-top: 2vh;
+    margin-left: 12px;
+
+}
+#username{
+    width: 430px;
+}
+
+.H {
+    margin-left: 10vh;
+}
+
+.I{
+    margin-top: 150px;
+}
+
+
+.cn {
+    margin-left: 22vh;
+}
+
+.signin {
+    display: flex;
+    margin-left: 12px;
+}
+
+.cname {
+    display: flex;
+    margin-left: 12px;
+}
+
+div.ln {
+    margin-left: 2vh;
+}
+
+div.sm {
+    margin-left: 2vh;
+}
+
+.center {
+    color: whitesmoke;
+    margin-bottom: 20px;
+    margin-left: 12px;
+    
+}
+
+div .center1 {
+    margin-left: 250px;
+    background-color: rgb(71, 174, 235);
+}
+
+.center2{
+    text-decoration: none;
+}
