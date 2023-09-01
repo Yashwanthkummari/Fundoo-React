@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Register from './Components/signup';
-
+import Login from './Components/Login';
 
 function App() {
   return (  // <div className="App">
@@ -20,7 +20,10 @@ function App() {
     //     </a>
     //   </header>
     // </div>
+    <div>
     <Register/>
+    <Login/>
+    </div>
   );
 }
 
